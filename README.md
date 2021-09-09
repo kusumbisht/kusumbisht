@@ -2,7 +2,6 @@
 
 <h3>
 I'm Kusum Bisht!! </h3>
- <hr/>
 
 - 🌱 I'm currently learning full stack web development !!
 - 🔗My code never has bugs, it just develops random unexpected features !!!
