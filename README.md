@@ -18,8 +18,8 @@ I'm Kusum Bisht!!
 
 ### Connect with me :
 
- - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"> Instagram (https://www.instagram.com/that_messterious/)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"> LinkedIn (https://www.linkedin.com/in/kusum-bisht-905561206/) 
+ - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"> Instagram [Instagram] (https://www.instagram.com/that_messterious/)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"> LinkedIn [Linkedin] (https://www.linkedin.com/in/kusum-bisht-905561206/) 
 - <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" width="22"> E-mail: khushibisht533@gmail.com
 
 <br />
