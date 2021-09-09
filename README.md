@@ -1,12 +1,13 @@
-### Hi there 👋
+### <h1>Hi there 👋 </h1>
 
-I'm Kusum Bisht!!
+<h3>
+I'm Kusum Bisht!! </h3>
  <hr/>
 
 - 🌱 I'm currently learning full stack web development !!
--🔗My code never has bugs, it just develops random unexpected features !!!
+- 🔗My code never has bugs, it just develops random unexpected features !!!
 - 🎯 Goal: Contribute more to Open Source projects.
-- ⚡ How to reach me  khushibisht533@gmail.com
+- ⚡ How to reach me : khushibisht533@gmail.com
 
 
 ### Languages and Tools:
@@ -18,9 +19,9 @@ I'm Kusum Bisht!!
 
 ### Connect with me :
 
- - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"> Instagram [Instagram] (https://www.instagram.com/that_messterious/)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"> LinkedIn [Linkedin] (https://www.linkedin.com/in/kusum-bisht-905561206/) 
-- <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" width="22"> E-mail: khushibisht533@gmail.com
+ - <img src="https://www.freepnglogos.com/pics/instagram-logo-png" width="22"> Instagram [Instagram] (https://www.instagram.com/that_messterious/)
+- <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" width="22"> LinkedIn [Linkedin] (https://www.linkedin.com/in/kusum-bisht-905561206/) 
+- <img src="https://www.freepnglogos.com/pics/email-logo-png" width="22"> E-mail: khushibisht533@gmail.com
 
 <br />
 
