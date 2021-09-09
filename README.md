@@ -21,7 +21,7 @@ I'm Kusum Bisht!! </h3>
 
  - <img src="https://www.freepnglogos.com/pics/instagram-logo-png" width="22"> Instagram [Instagram] (https://www.instagram.com/that_messterious/)
 - <img src="https://www.freepnglogos.com/pics/linkedin-logo-png" width="22"> LinkedIn [Linkedin] (https://www.linkedin.com/in/kusum-bisht-905561206/) 
-- <img src="https://www.freepnglogos.com/pics/email-logo-png" width="22"> E-mail: khushibisht533@gmail.com
+- <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="22"> E-mail: khushibisht533@gmail.com
 
 <br />
 
